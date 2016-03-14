@@ -1,6 +1,8 @@
 # star-conference-2015
-School of Science and Technology Annual Research Conference, Nottingham Trent University. 2015
+School of Science and Technology Annual Research Conference, Nottingham Trent University. 2015.
 
-A nice graphic sketch capturing the event by artists from InkyThinking.com:
+The abstract and poster for my presentation.
 
-![STAR Conference 2015 Low Res Graphic](star.conference.2015.graphic.low.res.jpg)
+I have also included the lo- and hi-res graphics for a nice sketch capturing the event by artists from InkyThinking.com.
+
+![STAR Conference 2015 Sketch](sketch.jpg)
